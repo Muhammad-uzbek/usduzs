@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Currency api",
+  "main": "index.js",
+  "scripts": {
+    "test": "run",
+    "start": "node index.js"
+  },
+  "author": "muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "request-promise": "^4.2.6"
+  }
+}

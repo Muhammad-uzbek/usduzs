@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="uz"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="uz"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="uz"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="uz" > <!--<![endif]-->
+<head>
+    <title>O‘zbekiston Respublikasi Markaziy bankining valyuta kurslari</title>
+    <meta name="description" content="Valyuta kurslari">
+    <meta name="keywords" content="Valyuta kurslari">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:title" content="O‘zbekiston Respublikasi Markaziy bankining valyuta kurslari"/>
+    <meta property="og:description" content="Valyuta kurslari" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://m.aniq.uz/uz/valyuta-kurslari"/>
+    <meta property="og:locale" content="uz_UZ"/>
+    <meta property="og:image" content="https://m.aniq.uz/images/course.jpg" />
+    <meta property="og:site_name" content="Aniq.uz">
+    <meta itemprop="name" content="Valyuta kurslari"/>
+    <meta itemprop="description" content="Valyuta kurslari" />
+    <meta itemprop="image" content="https://m.aniq.uz/images/course.jpg" />
+
+    <link rel="canonical" href="https://aniq.uz/">
+            <link rel="alternate" hreflang="uz" href="https://m.aniq.uz/valyuta-kurslari" />
+        <link rel="alternate" hreflang="uz-UZ" href="https://m.aniq.uz/uz/valyuta-kurslari" />
+        <link rel="alternate" hreflang="x-default" href="https://m.aniq.uz/valyuta-kurslari" />
+        <meta name="csrf-token" content="QQIa9Vb2Rmo1RtONLkvhJMRwlDhA2aNFOvgobS4g">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#38618e">
+
+    <link rel="shortcut icon" href="/images/favicon/favicon.ico" type="image/x-icon">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5V93FP8');
+    </script>
+    <!-- End Google Tag Manager -->
+    <link rel="stylesheet" href="/mobile_css/front.css?id=767a851dc1dfa2261e01">
+        <link rel="manifest" href="/manifest.json" />
+
+    <script async src="https://yastatic.net/pcode/adfox/header-bidding.js"></script>
+    <script type="text/javascript" src="https://ads.digitalcaramel.com/js/aniq.uz.js"></script>
+    <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+    <script async src="https://yastatic.net/pcode-native/loaders/loader.js"></script>
+
+    <script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V93FP8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+    <div class="navbar navbar-default sm-top-nav">
+        <div class="container navigationbar">
+                                                <a href="#" class="btn btn-primary navbar-btn" data-toggle="modal" data-target="#registerModel">Kirish</a>
+                    <a href="https://m.aniq.uz/uz/register" class="btn btn-primary navbar-btn">Registrasiya</a>
+                                        <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://www.facebook.com/Aniq.uz/"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://t.me/aniquzbek"><i class="fa fa-telegram"></i></a></li>
+                <li class="searchicon" id="searchicon"><a href=""><i class="fa fa-search"></i></a></li>
+            </ul>
+            <div class="row" id="searchbar" >
+                <div class="col-xs-12">
+                    <form method="GET" action="https://m.aniq.uz/uz/qidiruv" accept-charset="UTF-8" role="search" class="form search-form">
+                        <div class="input-group">
+                            <input class="form-control" id="searchBox" name="q" type="text" placeholder="Saytda qidirish" value="" />
+                            <span class="input-group-btn">
+                                <button class="btn btn-primary search-button" type="submit">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="my">
+        <!--AdFox START-->
+        <!--caramel2017-->
+        <!--Площадка: aniq.uz / content / 100%x250mobile2-->
+        <!--Категория: <не задана>-->
+        <!--Тип баннера: Native Ad-->
+        <div id="adfox_163369002479215849"></div>
+        <script>
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.createAdaptive({
+                    ownerId: 260971,
+                    containerId: 'adfox_163369002479215849',
+                    params: {
+                        p1: 'cqwyq',
+                        p2: 'gxmt'
+                    }
+                }, ['tablet', 'phone'], {
+                    tabletWidth: 830,
+                    phoneWidth: 480,
+                    isAutoReloads: false
+                })
+            })
+        </script>
+        <script>
+                        setInterval(function(){
+
+                window.Ya.adfoxCode.reload('adfox_163369002479215849')
+
+            }, 30000);
+                    </script>
+    </div>
+    <div class="header-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6">
+                    <div class="logo-block">
+                        <a href="https://m.aniq.uz/uz" class="logo">
+                            <img src="/images/top_logo.jpg" alt="Aniq.uz" title="Aniq.uz">
+                        </a>
+                        <a href="#slide1" class="btn btn-dark pull-left slide-toggle">Menyu</a>
+                    </div>
+                </div>
+                <div class="col-xs-6">
+                    <div class="lang-select pull-right">
+                        <p>Bugun 11 aprel, 2022 yil, dushanba</p>
+                        <a href="https://m.aniq.uz/locale/oz" class="btn btn-primary locale">КИР</a>
+                        <button class="btn btn-primary disabled">РУС</button>
+                        <button class="btn btn-primary disabled">ENG</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="slide-block " id="slide1">
+    <ul class="slide-menu clearfix">
+                                    <li><a href="/uz/yangiliklar" title="Yangiliklar">Yangiliklar</a></li>
+                                                <li><a href="/uz/siyosat" title="Siyosat">Siyosat</a></li>
+                                                <li><a href="/uz/iktisod" title="Iqtisod">Iqtisod</a></li>
+                                                <li><a href="/uz/biznes" title="Biznes">Biznes</a></li>
+                                                <li><a href="/uz/fan-va-texnika" title="Fan va texnika">Fan va texnika</a></li>
+                                                <li><a href="/uz/salomatlik" title="Salomatlik">Salomatlik</a></li>
+                                                <li><a href="/uz/avto" title="Avto">Avto</a></li>
+                                                <li><a href="/uz/sport" title="Sport">Sport</a></li>
+                                                <li><a href="https://stadion.uz/" title="Stadion.uz">Stadion.uz</a></li>
+                                                <li><a href="/uz/video" title="Video">Video</a></li>
+                                                <li><a href="/uz/fotogalereya" title="Fotogalereya">Fotogalereya</a></li>
+                                                <li><a href="/uz/tv-dastur" title="TV-dastur">TV-dastur</a></li>
+                                                <li><a href="/uz/ob-xavo" title="Ob-havo">Ob-havo</a></li>
+                                                <li><a href="/uz/shou-biznes" title="Shou biznes">Shou biznes</a></li>
+                                                <li><a href="/uz/uyinlar" title="O‘yinlar">O‘yinlar</a></li>
+                                                <li><a href="/uz/tuyxonalar" title="To‘yxona">To‘yxona</a></li>
+                                                <li><a href="/uz/bozorlar" title="Bozorlar">Bozorlar</a></li>
+                                                <li><a href="/uz/yumor" title="Yumor">Yumor</a></li>
+                                                <li><a href="/uz/eng-eng" title="Eng-eng">Eng-eng</a></li>
+                                                <li><a href="/uz/kirmang" title="Kirmang">Kirmang</a></li>
+                        </ul>
+</div>
+            <ul class="teams-logo-list nav-just clearfix">
+                                <li>
+                <a href="/uz/uzbekiston">
+                    <img src="/photos/states/uzbekistan.png" alt="Uzbekiston" title="Uzbekiston">
+                </a>
+            </li>
+                                <li>
+                <a href="/uz/aksh">
+                    <img src="/photos/states/united_states.png" alt="AKSh" title="AKSh">
+                </a>
+            </li>
+                                <li>
+                <a href="/uz/xitoy">
+                    <img src="/photos/states/china.png" alt="Xitoy" title="Xitoy">
+                </a>
+            </li>
+                                <li>
+                <a href="/uz/rossiya">
+                    <img src="/photos/states/russia.png" alt="Rossiya" title="Rossiya">
+                </a>
+            </li>
+                                        </ul>
+        </div>
+    </div>
+</header>
+<!--main container start-->
+<div class="container main-container">
+            <div>
+                            <h2 class="margin-20">O‘zbekiston Respublikasi Markaziy bankining valyuta kurslari</h2>
+
+            <ul class="list-gr clearfix">
+                <li class="list-gr-item"><i class="bg-USD course-icon"></i><i class="fa fa-usd" aria-hidden="true"></i> USD  <span>11.344,69 sum</span></li>
+                <li class="list-gr-item"><i class="bg-EUR course-icon"></i><i class="fa fa-eur" aria-hidden="true"></i> EUR  <span>12.331,68 sum</span></li>
+                <li class="list-gr-item"><i class="bg-RUB course-icon"></i><i class="fa fa-rub" aria-hidden="true"></i> RUB  <span>147,94 sum</span></li>
+            </ul>
+        
+        <h2>O‘zbekiston tijorat banklarida so‘mga nisbatan dollar ayirboshlash kursi</h2>
+                    <table class="table table-striped table-bordered table-course" style="margin-top: 25px">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Банк</th>
+                        <th>Покупка</th>
+                        <th>Продажа</th>
+                    </tr>
+                </thead>
+                <tbody>
+                                            <tr>
+                            <td>1</td>
+                                                            <td>
+                                    Trastbank
+                                </td>
+                                                            <td>
+                                    11300
+                                </td>
+                                                            <td>
+                                    11360
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>2</td>
+                                                            <td>
+                                    InfinBANK
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11330
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>3</td>
+                                                            <td>
+                                    Ravnaq-bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11350
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>4</td>
+                                                            <td>
+                                    Madad Invest Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11350
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>5</td>
+                                                            <td>
+                                    AloqaBank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11360
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>6</td>
+                                                            <td>
+                                    Tenge Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11360
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>7</td>
+                                                            <td>
+                                    Poytaxt Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11310
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>8</td>
+                                                            <td>
+                                    UzAgroEksportBank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11350
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>9</td>
+                                                            <td>
+                                    Saderat Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11345
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>10</td>
+                                                            <td>
+                                    KDB Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11370
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>11</td>
+                                                            <td>
+                                    Ziraat Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11400
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>12</td>
+                                                            <td>
+                                    Davr Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11320
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>13</td>
+                                                            <td>
+                                    Turkiston Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11400
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>14</td>
+                                                            <td>
+                                    OвЂ™zsanoatqurilishbank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11350
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>15</td>
+                                                            <td>
+                                    UniversalBank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11345
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>16</td>
+                                                            <td>
+                                    Mikrokreditbank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11345
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>17</td>
+                                                            <td>
+                                    NBU
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11380
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>18</td>
+                                                            <td>
+                                    Ipoteka Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11320
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>19</td>
+                                                            <td>
+                                    Ipak Yuli Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11400
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>20</td>
+                                                            <td>
+                                    Hamkorbank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11360
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>21</td>
+                                                            <td>
+                                    Asia Alliance Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11340
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>22</td>
+                                                            <td>
+                                    Hi-Tech Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11390
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>23</td>
+                                                            <td>
+                                    Turon Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11355
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>24</td>
+                                                            <td>
+                                    Orient Finans Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11400
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>25</td>
+                                                            <td>
+                                    QQB
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11370
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>26</td>
+                                                            <td>
+                                    Asaka Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11350
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>27</td>
+                                                            <td>
+                                    Agro Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11360
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>28</td>
+                                                            <td>
+                                    Xalq Banki
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11345
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>29</td>
+                                                            <td>
+                                    Savdogar Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11345
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>30</td>
+                                                            <td>
+                                    Kapitalbank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11340
+                                </td>
+                                                    </tr>
+                                            <tr>
+                            <td>31</td>
+                                                            <td>
+                                    Anor Bank
+                                </td>
+                                                            <td>
+                                    11290
+                                </td>
+                                                            <td>
+                                    11360
+                                </td>
+                                                    </tr>
+                                    </tbody>
+            </table>
+        
+        <style>
+            .table-course th:nth-child(1){
+                width: 1%;
+                white-space: nowrap;
+
+            }
+
+            .table-course th:nth-child(1), .table-course td:nth-child(1){
+                text-align: center;
+            }
+
+            .table-course th:nth-child(n+3){
+                text-align: center;
+            }
+
+            .table-course td:nth-child(n+3){
+                text-align: right;
+            }
+        </style>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+<!--main container end-->
+<footer>
+    <div class="container">
+    <div class="row">
+        <div class="col-xs-12 center margin-10">
+            <a href="https://aniq.uz/uz" class="btn btn-primary" style="padding: 7px 20px;background: #38618E;color: #ffffff;border-radius: 5px;">Asosiy saxifa</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-8">
+            Guvohnoma №1241. Berilgan sanasi: 13.07.2017.
+			<br>Muassis: «OSIYO KABEL» MCHJ.
+			<br>Bosh muharrir: Bo'ronov Olimxo'ja Azimxo'ja o'g'li.
+			<br>Tahririyat manzili: 100057, Toshkent shahri, Usta Shirin 125.
+			<br>E-mail: admin@aniq.uz
+            <br>Barcha huquqlar himoyalangan. Sayt materiallaridan to'liq yoki qisman foydalanilganda veb-sayt manzili ko'rsatilishi shart.
+            <p>Made by <a href="https://t.me/ErgashevAlisher">A L i S H E R</a></p>
+        </div>
+        <div class="col-xs-4 counter-list text-right">
+            <div>
+                <img src="/images/18.png" style="width: 30px">
+                <!-- MyCounter v.2.0 -->
+                <script type="text/javascript"><!--
+                    my_id = 166674;
+                    my_width = 88;
+                    my_height = 61;
+                    my_alt = "MyCounter - счётчик и статистика";
+                    //--></script>
+                <script type="text/javascript"
+                    src="https://get.mycounter.ua/counter2.0.js">
+                </script>
+                <noscript>
+                    <a target="_blank" href="https://mycounter.ua/"><img
+                        src="https://get.mycounter.ua/counter.php?id=166674"
+                        title="MyCounter - счётчик и статистика"
+                        alt="MyCounter - счётчик и статистика"
+                        width="88" height="61" border="0" />
+                    </a>
+                </noscript>
+                <!--/ MyCounter -->
+            </div>
+            <div>
+                <!--LiveInternet counter--><script type="text/javascript">
+                    document.write("<a href='//www.liveinternet.ru/click' "+
+                        "target=_blank><img src='//counter.yadro.ru/hit?t20.14;r"+
+                        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                        ";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+                        "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                        " часа, посетителей за 24 часа и за сегодня' "+
+                        "border='0' width='88' height='31'><\/a>")
+                </script><!--/LiveInternet-->
+            </div>
+            <div>
+                <div id="counter-www"></div>
+                <!-- START WWW.UZ TOP-RATING --><NOSCRIPT><A href="http://www.uz/rus/toprating/cmd/stat/id/42371" target=_top><IMG height=31 src="https://www.uz/plugins/top_rating/count/nojs_cnt.png?id=42371&pg=http%3A//aniq.uz&col=0063AF&t=ffffff&p=E6850F" width=88 border=0 alt="Топ рейтинг www.uz"></A></NOSCRIPT><!-- FINISH WWW.UZ TOP-RATING -->
+                <SCRIPT language="javascript" type="text/javascript">
+                    <!--
+                    top_js="1.0";top_r="id=42371&r="+escape(document.referrer)+"&pg="+escape(window.location.href);document.cookie="smart_top=1; path=/"; top_r+="&c="+(document.cookie?"Y":"N")
+                    //-->
+                </SCRIPT>
+                <SCRIPT language="javascript1.1" type="text/javascript">
+                    <!--
+                    top_js="1.1";top_r+="&j="+(navigator.javaEnabled()?"Y":"N")
+                    //-->
+                </SCRIPT>
+                <SCRIPT language="javascript1.2" type="text/javascript">
+                    <!--
+                    top_js="1.2";top_r+="&wh="+screen.width+'x'+screen.height+"&px="+
+                        (((navigator.appName.substring(0,3)=="Mic"))?screen.colorDepth:screen.pixelDepth)
+                    //-->
+                </SCRIPT>
+                <SCRIPT language="javascript1.3" type="text/javascript">
+                    <!--
+                    top_js="1.3";
+                    //-->
+                </SCRIPT>
+                <SCRIPT language="JavaScript" type="text/javascript">
+                    <!--
+                    top_rat="&col=0063AF&t=ffffff&p=E6850F";top_r+="&js="+top_js+"";document.getElementById("counter-www").innerHTML = ('<a href="http://www.uz/rus/toprating/cmd/stat/id/42371" target=_top><img src="https://www.uz/plugins/top_rating/count/cnt.png?'+top_r+top_rat+'" width=88 height=31 border=0 alt="Топ рейтинг www.uz"></a>')//-->
+                </SCRIPT>
+                <!-- width=88 height=31 -->
+            </div>
+        </div>
+    </div>
+</div></footer>
+<a href="#" class="sf-back-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+    <!-- Modal -->
+    <div id="registerModel" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Tizimga kirish</h4>
+                    <div class="imgcontainer">
+                        <img src="/images/avatar2.png" alt="Avatar" class="avatar">
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <form class="" method="POST" action="https://m.aniq.uz/uz/login">
+                        <input type="hidden" name="_token" value="QQIa9Vb2Rmo1RtONLkvhJMRwlDhA2aNFOvgobS4g">
+
+                        <div class="container_modal">
+                            <div class="form-group">
+                                <label for="email" class="">E-Mail / Login / Telefon:</label>
+                                <input id="email" type="text" class="form-control" name="email" value="" required autofocus placeholder="998123456789">
+                                                            </div>
+                            <div class="form-group">
+                                <label for="password" class="">Parol</label>
+                                <input id="password" type="password" class="form-control" name="password" required>
+                                                            </div>
+                            <button type="submit" class="btn btn-success btn-block btn-lg">Kirish</button>
+                            <label style="font-weight: 600;">
+                                <input type="checkbox" name="remember" checked> Esda saqlash
+                            </label>
+                        </div>
+
+                        <div class="container_modal modal-footer row clearfix">
+                            <button type="button" class="btn btn-default cancelbtn" data-dismiss="modal">Bekitish</button>
+                            <a class="btn btn-link" href="https://m.aniq.uz/uz/password/reset">
+                                Parolni tiklash
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--[if lt IE 9]>
+<script src="/js/front-ie.js"></script>
+<![endif]-->
+<script>
+    var APP_URL = "https:\/\/m.aniq.uz"
+    var LANG = "_uz"
+</script>
+<script src="/mobile_js/front.js?id=927fa5a1259fc5f53c6f"></script>
+
+<!-- Start Native Network Ads -->
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script> var cscr = document.createElement("script");
+    cscr.src = "https://ads.nativenetwork.uz/ads.min.js" + "?ts=" + new Date().getTime();
+    document.getElementsByTagName("body")[0].appendChild(cscr);
+</script>
+<!-- End Native Network Ads -->
+
+</body>
+</html>
