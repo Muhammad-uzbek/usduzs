@@ -1,1 +1,193 @@
-{"all":[{"bank":"UzAgroEksportBank","buy":11290,"sell":11305},{"bank":"IpotekaBank","buy":11275,"sell":11310},{"bank":"InfinBANK","buy":11275,"sell":11310},{"bank":"DavrBank","buy":11275,"sell":11310},{"bank":"Kapitalbank","buy":11280,"sell":11330},{"bank":"AloqaBank","buy":11280,"sell":11330},{"bank":"SaderatBank","buy":11280,"sell":11330},{"bank":"AsiaAllianceBank","buy":11280,"sell":11330},{"bank":"SavdogarBank","buy":11275,"sell":11330},{"bank":"XalqBanki","buy":11275,"sell":11330},{"bank":"AsakaBank","buy":11275,"sell":11330},{"bank":"Mikrokreditbank","buy":11275,"sell":11330},{"bank":"UniversalBank","buy":11270,"sell":11330},{"bank":"OвЂ™zsanoatqurilishbank","buy":11280,"sell":11335},{"bank":"AnorBank","buy":11275,"sell":11335},{"bank":"AgroBank","buy":11285,"sell":11340},{"bank":"MadadInvestBank","buy":11280,"sell":11340},{"bank":"TengeBank","buy":11280,"sell":11340},{"bank":"Trastbank","buy":11280,"sell":11340},{"bank":"TuronBank","buy":11275,"sell":11340},{"bank":"Hamkorbank","buy":11275,"sell":11340},{"bank":"Ravnaq-bank","buy":11275,"sell":11340},{"bank":"PoytaxtBank","buy":11280,"sell":11350},{"bank":"KDBBank","buy":11280,"sell":11350},{"bank":"QQB","buy":11275,"sell":11350},{"bank":"NBU","buy":11280,"sell":11370},{"bank":"OrientFinansBank","buy":11280,"sell":11380},{"bank":"TurkistonBank","buy":11280,"sell":11380},{"bank":"Hi-TechBank","buy":11280,"sell":11380},{"bank":"IpakYuliBank","buy":11280,"sell":11380},{"bank":"ZiraatBank","buy":11280,"sell":11380}],"bestSell":[{"bank":"UzAgroEksportBank","buy":11290,"sell":11305},{"bank":"IpotekaBank","buy":11275,"sell":11310},{"bank":"InfinBANK","buy":11275,"sell":11310},{"bank":"DavrBank","buy":11275,"sell":11310},{"bank":"Kapitalbank","buy":11280,"sell":11330},{"bank":"AloqaBank","buy":11280,"sell":11330},{"bank":"SaderatBank","buy":11280,"sell":11330},{"bank":"AsiaAllianceBank","buy":11280,"sell":11330},{"bank":"SavdogarBank","buy":11275,"sell":11330},{"bank":"XalqBanki","buy":11275,"sell":11330},{"bank":"AsakaBank","buy":11275,"sell":11330},{"bank":"Mikrokreditbank","buy":11275,"sell":11330},{"bank":"UniversalBank","buy":11270,"sell":11330},{"bank":"OвЂ™zsanoatqurilishbank","buy":11280,"sell":11335},{"bank":"AnorBank","buy":11275,"sell":11335},{"bank":"AgroBank","buy":11285,"sell":11340},{"bank":"MadadInvestBank","buy":11280,"sell":11340},{"bank":"TengeBank","buy":11280,"sell":11340},{"bank":"Trastbank","buy":11280,"sell":11340},{"bank":"TuronBank","buy":11275,"sell":11340},{"bank":"Hamkorbank","buy":11275,"sell":11340},{"bank":"Ravnaq-bank","buy":11275,"sell":11340},{"bank":"PoytaxtBank","buy":11280,"sell":11350},{"bank":"KDBBank","buy":11280,"sell":11350},{"bank":"QQB","buy":11275,"sell":11350},{"bank":"NBU","buy":11280,"sell":11370},{"bank":"OrientFinansBank","buy":11280,"sell":11380},{"bank":"TurkistonBank","buy":11280,"sell":11380},{"bank":"Hi-TechBank","buy":11280,"sell":11380},{"bank":"IpakYuliBank","buy":11280,"sell":11380},{"bank":"ZiraatBank","buy":11280,"sell":11380}],"bestBuy":[{"bank":"UzAgroEksportBank","buy":11290,"sell":11305},{"bank":"IpotekaBank","buy":11275,"sell":11310},{"bank":"InfinBANK","buy":11275,"sell":11310},{"bank":"DavrBank","buy":11275,"sell":11310},{"bank":"Kapitalbank","buy":11280,"sell":11330},{"bank":"AloqaBank","buy":11280,"sell":11330},{"bank":"SaderatBank","buy":11280,"sell":11330},{"bank":"AsiaAllianceBank","buy":11280,"sell":11330},{"bank":"SavdogarBank","buy":11275,"sell":11330},{"bank":"XalqBanki","buy":11275,"sell":11330},{"bank":"AsakaBank","buy":11275,"sell":11330},{"bank":"Mikrokreditbank","buy":11275,"sell":11330},{"bank":"UniversalBank","buy":11270,"sell":11330},{"bank":"OвЂ™zsanoatqurilishbank","buy":11280,"sell":11335},{"bank":"AnorBank","buy":11275,"sell":11335},{"bank":"AgroBank","buy":11285,"sell":11340},{"bank":"MadadInvestBank","buy":11280,"sell":11340},{"bank":"TengeBank","buy":11280,"sell":11340},{"bank":"Trastbank","buy":11280,"sell":11340},{"bank":"TuronBank","buy":11275,"sell":11340},{"bank":"Hamkorbank","buy":11275,"sell":11340},{"bank":"Ravnaq-bank","buy":11275,"sell":11340},{"bank":"PoytaxtBank","buy":11280,"sell":11350},{"bank":"KDBBank","buy":11280,"sell":11350},{"bank":"QQB","buy":11275,"sell":11350},{"bank":"NBU","buy":11280,"sell":11370},{"bank":"OrientFinansBank","buy":11280,"sell":11380},{"bank":"TurkistonBank","buy":11280,"sell":11380},{"bank":"Hi-TechBank","buy":11280,"sell":11380},{"bank":"IpakYuliBank","buy":11280,"sell":11380},{"bank":"ZiraatBank","buy":11280,"sell":11380}]}
+{
+    "all": [
+        {
+            "bank": "IpotekaBank",
+            "buy": 11260,
+            "sell": 11295
+        },
+        {
+            "bank": "DavrBank",
+            "buy": 11275,
+            "sell": 11300
+        },
+        {
+            "bank": "AloqaBank",
+            "buy": 11260,
+            "sell": 11300
+        },
+        {
+            "bank": "UzAgroEksportBank",
+            "buy": 11275,
+            "sell": 11305
+        },
+        {
+            "bank": "Mikrokreditbank",
+            "buy": 11260,
+            "sell": 11315
+        },
+        {
+            "bank": "XalqBanki",
+            "buy": 11260,
+            "sell": 11315
+        },
+        {
+            "bank": "SavdogarBank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "TuronBank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "AsiaAllianceBank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "Trastbank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "InfinBANK",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "OвЂ™zsanoatqurilishbank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "UniversalBank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "PoytaxtBank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "Kapitalbank",
+            "buy": 11280,
+            "sell": 11330
+        },
+        {
+            "bank": "SaderatBank",
+            "buy": 11280,
+            "sell": 11330
+        },
+        {
+            "bank": "AsakaBank",
+            "buy": 11275,
+            "sell": 11330
+        },
+        {
+            "bank": "AgroBank",
+            "buy": 11275,
+            "sell": 11330
+        },
+        {
+            "bank": "QQB",
+            "buy": 11260,
+            "sell": 11330
+        },
+        {
+            "bank": "Hamkorbank",
+            "buy": 11260,
+            "sell": 11330
+        },
+        {
+            "bank": "MadadInvestBank",
+            "buy": 11260,
+            "sell": 11330
+        },
+        {
+            "bank": "AnorBank",
+            "buy": 11275,
+            "sell": 11335
+        },
+        {
+            "bank": "TengeBank",
+            "buy": 11280,
+            "sell": 11340
+        },
+        {
+            "bank": "KDBBank",
+            "buy": 11260,
+            "sell": 11340
+        },
+        {
+            "bank": "NBU",
+            "buy": 11260,
+            "sell": 11350
+        },
+        {
+            "bank": "Ravnaq-bank",
+            "buy": 11260,
+            "sell": 11350
+        },
+        {
+            "bank": "OrientFinansBank",
+            "buy": 11260,
+            "sell": 11370
+        },
+        {
+            "bank": "IpakYuliBank",
+            "buy": 11260,
+            "sell": 11370
+        },
+        {
+            "bank": "Hi-TechBank",
+            "buy": 11280,
+            "sell": 11380
+        },
+        {
+            "bank": "ZiraatBank",
+            "buy": 11280,
+            "sell": 11380
+        },
+        {
+            "bank": "TurkistonBank",
+            "buy": 11280,
+            "sell": 11380
+        }
+    ],
+    "bestSell": [
+        {
+            "bank": "IpotekaBank",
+            "buy": 11260,
+            "sell": 11295
+        },
+        {
+            "bank": "DavrBank",
+            "buy": 11275,
+            "sell": 11300
+        },
+        {
+            "bank": "AloqaBank",
+            "buy": 11260,
+            "sell": 11300
+        }
+    ],
+    "bestBuy": [
+        {
+            "bank": "PoytaxtBank",
+            "buy": 11260,
+            "sell": 11320
+        },
+        {
+            "bank": "KDBBank",
+            "buy": 11260,
+            "sell": 11340
+        },
+        {
+            "bank": "UniversalBank",
+            "buy": 11260,
+            "sell": 11320
+        }
+    ]
+}
