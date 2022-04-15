@@ -1,0 +1,82 @@
+[
+    {
+        "price": 0.947,
+        "change_point": 0.002,
+        "change_percentage": 0.21,
+        "total_vol": "151.92K",
+        "name": "INTL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/1005px-Intel_logo_%282006-2020%29.svg.png"
+    },
+    {
+        "price": 178.55,
+        "change_point": 0,
+        "change_percentage": 0,
+        "total_vol": "426.55K",
+        "name": "NDAQ",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NASDAQ_Logo.svg/2560px-NASDAQ_Logo.svg.png"
+    },
+    {
+        "price": 46.66,
+        "change_point": 1.58,
+        "change_percentage": 3.5,
+        "total_vol": "258.87M",
+        "name": "TWTR",
+        "logo": "https://www.lifepng.com/wp-content/uploads/2020/10/580b57fcd9996e24bc43c53e.png"
+    },
+    {
+        "price": 209.92,
+        "change_point": -0.26,
+        "change_percentage": -0.12,
+        "total_vol": "18.38M",
+        "name": "FB",
+        "logo": "https://logos-world.net/wp-content/uploads/2021/11/Meta-Symbol.png"
+    },
+    {
+        "price": 341.38,
+        "change_point": 0.25,
+        "change_percentage": 0.07,
+        "total_vol": "4.34M",
+        "name": "NFLX",
+        "logo": "https://image.similarpng.com/very-thumbnail/2021/01/Netflix-logo-on-transparent-background-PNG.png"
+    },
+    {
+        "price": 34451.23,
+        "change_point": -113.36,
+        "change_percentage": -0.33,
+        "total_vol": "34",
+        "name": "DJI",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Dow_Jones_Newswires_Logo.png"
+    },
+    {
+        "price": 3034,
+        "change_point": -0.13,
+        "change_percentage": 0,
+        "total_vol": "2.58M",
+        "name": "AMZN",
+        "logo": "https://pngimg.com/uploads/amazon/amazon_PNG5.png"
+    },
+    {
+        "price": 150.15,
+        "change_point": 2.65,
+        "change_percentage": 1.8,
+        "total_vol": "149.30",
+        "name": "INX",
+        "logo": "https://companiesmarketcap.com/img/company-logos/256/SPGI.png"
+    },
+    {
+        "price": 279.8,
+        "change_point": -0.03,
+        "change_percentage": -0.01,
+        "total_vol": "28.22M",
+        "name": "MSFT",
+        "logo": "https://www.netier.com.au/wp-content/uploads/2018/07/Microsoft-Logo-icon-png-Transparent-Background.png"
+    },
+    {
+        "price": 2537.87,
+        "change_point": 3.27,
+        "change_percentage": 0.13,
+        "total_vol": "1.58M",
+        "name": "GOOGL",
+        "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    }
+]
